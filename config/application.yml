@@ -9,7 +9,7 @@ common: &common
   # Downcased and trimmed app name for namespaces.
   # Safest to start with a letter rather than a number.
   # See locales/en.yml for setting your app's user facing brand name.
-  app_name: 'starterkit'
+  app_name: 'KumardevPathak'
 
   social:
     facebook: 'https://www.facebook.com/simple10'
@@ -18,8 +18,8 @@ common: &common
     linkedin: 'http://www.linkedin.com/in/startupjoe'
 
   contact:
-    email: 'joe@example.com'
-    phone: '555-555-5555'
+    email: 'kumardevp@gmail.com'
+    phone: '9879378973'
 
   session:
     key: '_starterkit_session'
